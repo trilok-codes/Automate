@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(205, 211, 216);
+    overflow: hidden;
+}
+.header{
+    font-size: 30px;
+    margin-left: 20px;
+    font-weight: 60px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.box1{
+    width: 150px;
+    background-color: aliceblue;
+    padding-left: 60px;
+    height: 120px;
+    padding-top: 20px;
+    margin: 20px;
+    color: rgb(144, 144, 200);
+}
+.box2{
+    width: 150px;
+    background-color: aliceblue;
+    padding-left: 80px;
+    height: 120px;
+    padding-top: 20px;
+    margin: 20px;
+    color: rgb(144, 144, 200);
+}
+.box3{
+    width: 150px;
+    background-color: aliceblue;
+    padding-left: 80px;
+    height: 120px;
+    padding-top: 20px;
+    margin: 20px;
+    color: rgb(144, 144, 200);
+}
+.box4{
+    width: 150px;
+    background-color: aliceblue;
+    padding-left: 80px;
+    height: 120px;
+    padding-top: 20px;
+    margin: 20px;
+    color: rgb(144, 144, 200);
+}
+.box5{
+    width: 150px;
+    background-color: aliceblue;
+    padding-left: 80px;
+    height: 120px;
+    padding-top: 20px;
+    margin: 20px;
+    color: rgb(144, 144, 200);
+}
+.box1 h2{
+    font-size: 80px;
+    margin-right: 90px;
+}
+.box2 h2{
+    font-size: 80px;
+    margin-right: 90px;
+}
+.box3 h2{
+    font-size: 80px;
+    margin-right: 90px;
+}
+.box4 h2{
+    font-size: 80px;
+    margin-right: 90px;
+}
+.box5 h2{
+    font-size: 80px;
+    margin-right: 90px;
+}
+.hero{
+    padding: 10px;
+}
+.header2{
+    display: flex;
+    justify-content: space-between;
+}
+.middle{
+    border-left: 2px solid red;
+    
+    
+    width: fit-content;
+    padding: 10px;
+    
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
